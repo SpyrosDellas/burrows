@@ -1,4 +1,1 @@
-## Java implementations of classic data compression algorithms:
-
-- Huffman encoding
-- LZW encoding
+## Burrows-Wheeler programming assignment from Algorithms II, Coursera
